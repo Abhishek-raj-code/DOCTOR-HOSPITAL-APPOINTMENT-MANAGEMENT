@@ -290,7 +290,7 @@ border-radius: 4px;
 <div id="apDiv14">
   <div id="copyright">
   <div class="wrapper">
-  <p align="center" style="color:#000; font-size:18px;">Developed by Abhishek Raj - CSE(6th Semester)</p>
+  <p align="center" style="color:#000; font-size:18px;">Developed by Abhishek Raj - CSE(6th Sem)</p>
     <br class="clear" />
   </div>
 </div>
